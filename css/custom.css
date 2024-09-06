@@ -1,12 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap');
 
 
 /* start global css */
 
 body{
-    font-family: 'Quicksand', sans-serif;
+     font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth;
 }
 section{
